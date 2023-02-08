@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcegnar
-- 👀 I’m interested in design and development driven by UI/UX, CX.
+- 👀 I’m on the hunt of open commerce driven by high trust and democratic principles.
 - 🌱 I’m currently learning about Digital Transformation and next gen's CX.
-- 💞️ I’m looking to collaborate on ERP, Retail and Restaurant SAAS.
+- 💞️ I’m looking to collaborate on ERP, Open Commerce SAAS.
 - 📫 How to reach me, email me at pcegnar@mugna.co
 
 <!---
